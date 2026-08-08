@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env*.local
+
+# IDE / Agent folders
+.gemini/
+
+# Node modules & logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
